@@ -201,3 +201,32 @@ https://www.pythonanywhere.com/user/alvere9/webapps/#tab_id_alvere9_pythonanywhe
 https://docs.python-guide.org/dev/virtualenvs/ | Pipenv & Virtual Environments — The Hitchhiker's Guide to Python
 https://atom.io/packages/script | script
 https://www.lastpass.com/get-started | Get Started
+
+https://thingsboard.io/docs/samples/raspberry/temperature/#thingsboard-configuration | Temperature upload over MQTT using Raspberry Pi and DHT22 sensor | ThingsBoard
+https://www.balena.io/ | balena - Home
+https://dashboard.balena-cloud.com/billing/summary#billing-plans | balenaCloud | Plan & Usage
+https://github.com/balena-io-projects/balena-sense | balena-io-projects/balena-sense: Take readings from a BME680 sensor or Sense-HAT on a Pi or Pi Zero, store with InfluxDB and view with Grafana
+https://www.balena.io/blog/turn-your-old-speakers-or-hi-fi-into-bluetooth-receivers-using-only-a-raspberry-pi/?utm_source=efp&utm_medium=etcher&utm_campaign=balena-sound&utm_content=v3 | Turn your old speakers or Hi-Fi into Bluetooth receivers with a Raspberry Pi and this step-by-step guide
+https://www.balena.io/blog/aggregate-data-from-a-fleet-of-sensors-with-balenasense-and-influxdb/ | Aggregate data from a fleet of sensors with balenaSense and InfluxDB
+https://www.balena.io/blog/deploy-free-digital-signage-software-screenly-ose/ | It's a sign: build a remote controlled digital display with Screenly OSE and Raspberry Pi
+https://www.screenly.io/reseller/ | Screenly - Screenly Partner Program
+https://www.screenly.io/ | Screenly - Digital Signage made easy
+https://www.raspberrypi.org/downloads/noobs/ | Download NOOBS for Raspberry Pi
+https://www.balena.io/blog/deploy-a-digital-signage-application-with-screenly-and-resin/ | Deploy a digital signage application with Screenly OSE and balenaCloud
+https://www.balena.io/ | balena - Home
+https://pynet.twb-tech.com/blog/automation/netmiko.html | Python for Network Engineers | Articles
+https://www.balena.io/blog/monitoring-the-edge-with-prometheus-pt-1/ | Monitoring the edge with Prometheus pt. 1
+https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/ | Reading and Writing JSON to a File in Python
+https://www.google.com/search?client=firefox-b-1-d&q=with+open%28%27data.txt%27%29+as+json_file%3A | with open('data.txt') as json_file: - Google Search
+https://docs.python.org/2/library/json.html#module-json | 18.2. json — JSON encoder and decoder — Python 2.7.17 documentation
+https://stackoverflow.com/questions/6077675/why-am-i-seeing-typeerror-string-indices-must-be-integers | python - Why am I seeing "TypeError: string indices must be integers"? - Stack Overflow
+https://stackoverflow.com/questions/18042662/invalid-syntax-when-trying-to-open-write-a-file | python - Invalid syntax when trying to open/write a file - Stack Overflow
+https://github.com/ktbyers/netmiko/blob/develop/examples/use_cases/case3_multiple_devices/conn_multiple_dev.py | netmiko/conn_multiple_dev.py at develop · ktbyers/netmiko · GitHub
+https://www.linuxjournal.com/content/use-case-network-automation | A Use Case for Network Automation | Linux Journal
+https://github.com/nickmoody/cisco-sg300-backup-tftp | GitHub - nickmoody/cisco-sg300-backup-tftp: Python script for backing up Cisco SG300 switches
+https://github.com/ktbyers/netmiko/issues/761 | Use netmiko to login GNS3 virtual IOS router via telnet successfully, but can NOT print prompt and finally timeout · Issue #761 · ktbyers/netmiko · GitHub
+https://www.windstreamenterprise.com/wholesale/ | About Windstream Wholesale | Windstream Enterprise
+file:///C:/Users/Hi-Tech%20LT008/Documents/DandD/ThrallOfXanterion/General%20and%20Misc/scores.html | Ability Score Generator v1.0
+file:///C:/Users/Hi-Tech%20LT008/Documents/DandD/ThrallOfXanterion/General%20and%20Misc/Random%20Dungeon%20Generator%20v1.0.3.html | Random Dungeon Generator v1.0.3
+file:///C:/Users/Hi-Tech%20LT008/Documents/DandD/ThrallOfXanterion/General%20and%20Misc/Random%20Dungeon%20Generator%20v1.0.3.html | Random Dungeon Generator v1.0.3
+file:///C:/Users/Hi-Tech%20LT008/Documents/DandD/ThrallOfXanterion/General%20and%20Misc/Fractal%20World%20Generator%20v1.0.1.html | Fractal World Generator v1.0.1
