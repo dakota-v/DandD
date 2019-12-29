@@ -42,3 +42,51 @@ Steigi: Male Dwarf Artist, CG. Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
     Steigi has white hair and large brown eyes, and wears glasses with copper
     rims. He wears tailored clothing and a feathered hat. Steigi suffers a mild
     allergy to cats.
+
+Donna: Female Halfling Merchant, NG. Str 6, Dex 11, Con 10, Int 9, Wis 6, Cha 7.
+    Donna is short and heavyset, with tangled red hair and amber eyes. She
+    wears modest garments and carries a long knife.
+
+Uter: Male Elf Alchemist, NE. Str 9, Dex 9, Con 5, Int 9, Wis 9, Cha 14.
+    Uter has a square face, with thick copper hair and narrow gray eyes. He
+    wears fine clothing and carries a fine stiletto. Uter is searching for
+    his missing daughter.
+
+Adac Oldbuck: Male Halfling Mercenary, NG. Str 6, Dex 8, Con 9, Int 10, Wis 13,
+    Cha 12.
+    Adac has an angular face, with short black hair and soft amber eyes. He
+    wears studded leather and wields a rapier and shield.
+
+Ningal: Female Dragonborn Artist, LN. Str 5, Dex 12, Con 6, Int 6, Wis 13,
+    Cha 12.
+    Ningal is willowy, with bronze scales and light blue eyes. She wears
+    tailored clothing and an amulet of luminous crystal.
+
+Nocri: Female Dragonborn Peasant, NG. Str 14, Dex 11, Con 11, Int 14, Wis 8,
+    Cha 6. Nocri has bronze scales and dark hazel eyes. She wears modest
+    garments and several pouches hang from her belt.
+
+Amel: Male Halfling Scholar, LE. Str 6, Dex 9, Con 9, Int 12, Wis 12, Cha 8.
+    Amel has gray hair and large amber eyes, and a distinctive mark on his
+    arm. He wears fine clothing and a feathered hat. Amel has an animal
+    companion, a red fox named Bely.
+
+Dwoinan: Male Dwarf Alchemist, N. Str 7, Dex 9, Con 8, Int 10, Wis 6, Cha 11.
+    Dwoinan is short and thin, with curly golden hair and dark gray eyes. He
+    wears well-made clothing and several pouches hang from his belt. Dwoinan
+    secretly serves Bapha, an ancient undead god.
+
+Andren: Male Human Entertainer, LN. Str 8, Dex 9, Con 6, Int 14, Wis 7, Cha 13.
+    Andren has a narrow face, with braided brown hair and green eyes. He
+    wears modest garments and carries a fine stiletto. Andren seeks to atone
+    for past sins.
+
+Mira: Female Half-orc Artist, LG. Str 8, Dex 6, Con 7, Int 5, Wis 7, Cha 11.
+    Mira has an angular face, with thick silver hair and bright hazel eyes.
+    She wears expensive clothing and carries a fine stiletto.
+
+Sumuaba: Male Dragonborn Professional, LG. Str 13, Dex 14, Con 7, Int 14,
+    Wis 11, Cha 9.
+    Sumuaba has bronze scales and amber eyes, and a distinctive scar on his
+    face. He wears fine clothing and several pouches hang from his belt.
+    Sumuaba seeks only fame and glory.
