@@ -1,0 +1,44 @@
+Fosa: Male Gnome Soldier, NE. Str 11, Dex 9, Con 10, Int 9, Wis 8, Cha 11.
+    Fosa has thin silver hair and blue eyes, and a short beard. He wears studded
+    leather and wields a flail and longbow. Fosa frequently uses uncommon words
+    incorrectly.
+
+Gauwyn Floray: Male Halfling Aristocrat, NG. Str 12, Dex 7, Con 10, Int 10,
+    Wis 13, Cha 8.
+    Gauwyn has gray hair and hazel eyes, and a beaked nose. He wears fine raiment
+    and jewelry.
+
+Ferdo: Male Halfling Soldier, LN. Str 8, Dex 10, Con 10, Int 7, Wis 8, Cha 9.
+    Ferdo has a square face, with brown hair and hazel eyes. He wears leather
+    armor and wields a flail and longbow.
+
+Gisada: Male Tiefling Craftsman, LE. Str 9, Dex 15, Con 9, Int 14, Wis 8, Cha 15.
+    Gisada is willowy, with dark purple hair and black eyes. He wears modest
+    garments and a pewter amulet.
+
+Athir: Male Half-elf Craftsman, N. Str 13, Dex 10, Con 13, Int 14, Wis 7, Cha 9.
+    Athir is fey in appearance, with copper hair and large brown eyes. He wears
+     sturdy clothing and several small tools hang from his belt. Athir seeks
+     only fame and glory.
+
+Mari: Male Elf Merchant, N. Str 10, Dex 10, Con 8, Int 10, Wis 10, Cha 11.
+    Mari is willowy, with thick auburn hair and brown eyes. He wears modest
+    garments and carries a long knife. Mari suffers a paralyzing fear of darkness.
+
+Agrisus: Male Half-orc Priest, N. Str 8, Dex 6, Con 12, Int 7, Wis 8, Cha 11.
+    Agrisus has long blonde hair and sharp brown eyes, and numerous unusual
+    tattoos. He wears modest garments and numerous rings.
+
+Robert Brewsalt: Male Halfling Servant, NG. Str 8, Dex 12, Con 11, Int 8, Wis 10,
+    Cha 13. Robert is short and overweight, with black hair and gray eyes. He
+    wears modest garments and a wooden holy symbol.
+
+Orim: Male Gnome Alchemist, LG. Str 12, Dex 8, Con 9, Int 11, Wis 7, Cha 12.
+    Orim has braided copper hair and brown eyes, and a beaked nose. He wears
+    modest garments and numerous rings. Orim seeks to discover where he came
+    from, and who his real family is.
+
+Steigi: Male Dwarf Artist, CG. Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
+    Steigi has white hair and large brown eyes, and wears glasses with copper
+    rims. He wears tailored clothing and a feathered hat. Steigi suffers a mild
+    allergy to cats.
