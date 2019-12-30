@@ -1,0 +1,66 @@
+City of Old Guard
+Total population:
+	12592
+Humans:
+	7555
+Sylvari (elves) :
+	1259
+Half-syls (half-elves):
+	1259
+Khords (dwarves):
+	1259
+Cids (halflings):
+	630
+Other (kender, etc):
+	630
+Total guard:
+	126
+In addition, 157 clergy tend to the spiritual needs of the City , and are overseen by 6 ordained priests.
+
+King:
+Amel: Male Halfling Scholar, LE. Str 6, Dex 9, Con 9, Int 12, Wis 12, Cha 8.
+    Amel has gray hair and large amber eyes, and a distinctive mark on his
+    arm. He wears fine clothing and a feathered hat. Amel has an animal
+    companion, a red fox named Bely.
+Queen:
+Ningal: Female Dragonborn Artist, LN. Str 5, Dex 12, Con 6, Int 6, Wis 13,
+    Cha 12.
+    Ningal is willowy, with bronze scales and light blue eyes. She wears
+    tailored clothing and an amulet of luminous crystal.
+    
+Inns:
+	8
+Taverns:
+	31
+Blacksmiths:
+	21
+Healers:
+	8
+Weaponsmiths:
+	6
+Armorers:
+	6
+Bowyers:
+	8
+Magic Shops:
+	4 *
+Booksellers:
+	2
+Merchants:
+	8
+Leatherworkers:
+	21
+Tailors:
+	36
+Jewelers:
+	6
+Cobblers
+	39
+Fishmongers:
+	10
+Farriers:
+	25
+Carpenters:
+	25
+Masons:
+	18

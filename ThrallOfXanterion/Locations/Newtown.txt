@@ -1,0 +1,61 @@
+Town of Newtown:
+  Total population:
+    4817
+  Humans:
+    2890
+  Sylvari (elves) :
+    482
+  Half-syls (half-elves):
+    482
+  Khords (dwarves):
+    482
+  Cids (halflings):
+    241
+  Other (kender, etc):
+    241
+  Total guard:
+    32
+  In addition, 60 clergy tend to the spiritual needs of the Town , and are
+  overseen by 2 ordained priests.
+  Mayor:
+    Gauwyn Floray: Male Halfling Aristocrat, NG. Str 12, Dex 7, Con 10, Int 10,
+      Wis 13, Cha 8.
+      Gauwyn has gray hair and hazel eyes, and a beaked nose. He wears fine
+      raiment and jewelry.
+
+      Inns:
+      	3
+      Taverns:
+      	10
+      Blacksmiths:
+      	7 	
+      Healers:
+      	2
+      Weaponsmiths:
+      	2
+      Armorers:
+      	2
+      Bowyers:
+      	2
+      Magic Shops:
+      	1 *
+      Booksellers:
+      	1
+      Merchants:
+      	3
+      Leatherworkers:
+      	7
+      Tailors:
+      	11
+      Jewelers:
+      	2
+      Cobblers
+      	12
+      Fishmongers:
+      	3
+      Farriers:
+      	8
+      Carpenters:
+      	8
+      Masons:
+      	6
