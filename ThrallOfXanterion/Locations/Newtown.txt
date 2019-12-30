@@ -28,7 +28,7 @@ Town of Newtown:
       Taverns:
       	10
       Blacksmiths:
-      	7 	
+      	7
       Healers:
       	2
       Weaponsmiths:
