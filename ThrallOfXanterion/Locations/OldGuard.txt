@@ -27,7 +27,7 @@ Ningal: Female Dragonborn Artist, LN. Str 5, Dex 12, Con 6, Int 6, Wis 13,
     Cha 12.
     Ningal is willowy, with bronze scales and light blue eyes. She wears
     tailored clothing and an amulet of luminous crystal.
-    
+
 Inns:
 	8
 Taverns:
@@ -64,3 +64,8 @@ Carpenters:
 	25
 Masons:
 	18
+
+Idum: Female Dragonborn Professional, LN. Str 9, Dex 10, Con 7, Int 14, Wis 10, Cha 9.
+  Idum is willowy, with bronze scales and hazel eyes. She wears expensive
+  clothing and a copper amulet. Idum has an animal companion, a red fox named
+  Nisil.
