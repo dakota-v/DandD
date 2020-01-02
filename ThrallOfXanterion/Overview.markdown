@@ -1,6 +1,5 @@
-<div class='wide'>
- # Thrall of Xanterion: Introduction
-</div>
+# Thrall of Xanterion: Introduction
+
 # Overview
 Welcome travelers to the world of South Shore and the story of  the Second Invasion of Xanterion. Based mainly in the city of Old Guard and the surronding areas, this adventure is designed for 4 Player Characters starting at level one and advanceing them through level three. Included in this campaign is pre created encounter and loot tables, but any and all items of this campaign can and should be modified to fit your player base and specific rusleset.
 ## List of Tables and Figures
@@ -34,3 +33,9 @@ Small Hamlet with where the players travel to find quest NPCs. Town of artisians
 
 ```
 ```
+#### Eastern Forest
+Location of first quest and return quest later on. First sighting of a demon.
+#### Cultist Dungeon
+Location of Second quest and follow up quests to gain access to Xanterion.
+####
+\page
