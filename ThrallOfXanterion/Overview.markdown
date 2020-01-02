@@ -1,7 +1,7 @@
 # Thrall of Xanterion: Introduction
 
 # Overview
-Welcome travelers to the world of South Shore and the story of  the Second Invasion of Xanterion. Based mainly in the city of Old Guard and the surronding areas, this adventure is designed for 4 Player Characters starting at level one and advanceing them through level three. Included in this campaign is pre created encounter and loot tables, but any and all items of this campaign can and should be modified to fit your player base and specific rusleset.
+Welcome travelers to the world of South Shore and the story of  the Second Invasion of Xanterion. Based mainly in the city of Old Guard and the surrounding areas, this adventure is designed for 4 Player Characters starting at level one and advancing them through level three. Included in this campaign is pre created encounter and loot tables, but any and all items of this campaign can and should be modified to fit your player base and specific ruleset.
 ## List of Tables and Figures
 ### Tables
 ##### Tables
@@ -21,7 +21,7 @@ Welcome travelers to the world of South Shore and the story of  the Second Invas
 | 3.3 | Test | 12 |
 | 3.4 | Test | 13 |
 
-### Locations Overview
+### Location Overview
 #### Old Guard:
 Victorian style city, main city that contains the players temp base and other services.
 #### New Town:
@@ -39,20 +39,3 @@ Location of first quest and return quest later on. First sighting of a demon.
 Location of Second quest and follow up quests to gain access to Xanterion.
 ####
 \page
-# Section One: Kobold Invasion
-# DM Notes:
-This adventure is designed to introduce mystery and speculation up until the end when they finally fight the demon. Even then there is nothing to say that it may not be currently shape shifted into another form. The story needs to flow, and a lot of the names are pretty interchangable.
-### Chapter One
-Our adventures find them selves in the town of New Town.
-\page
-<div class='wide'>
-## Maps
-<img
-  src='https://github.com/dakota-v/DandD/blob/feature/ThrallOfXanterion/ThrallOfXanterion/Locations/Newtown.png?raw=true'
-  style='width:400px' /> Fig 1.1 New Town Map
-<img
-  src='https://github.com/dakota-v/DandD/blob/feature/ThrallOfXanterion/ThrallOfXanterion/Locations/OldGuard.png?raw=true'
-  style='width:400px' /> Fig 1.2 Old Guard City Map
-  </div>
-  \page
-  
